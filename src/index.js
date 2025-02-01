@@ -18,7 +18,7 @@ function App() {
 }
 
 function Avatar() {
-  return <img className="avatar" src="jeffk.jpg" alt="Jeff Kessie" />;
+  return <img className="avatar" src="jeffk.jpeg" alt="Jeff Kessie" />;
 }
 
 function Intro() {
@@ -26,7 +26,7 @@ function Intro() {
     <div>
       <h1>Jeff Kessie</h1>
       <p>
-      I’m a senior cybersecurity analyst with a passion for protecting digital landscapes and solving complex security challenges. 
+      I'm a senior cybersecurity analyst with a passion for protecting digital landscapes and solving complex security challenges. 
       When I'm not immersed in code or defending systems from cyber threats, you'll find me diving into a good book, or exploring new recipes in the kitchen.
       I have a deep love for traveling and experiencing the world through its diverse cultures and cuisines.
 
